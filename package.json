@@ -1,5 +1,5 @@
 {
-  "name": "shop-shop",
+  "name": "mern-shopping",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -18,14 +18,5 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexandraws29/shop-shop.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/alexandraws29/shop-shop/issues"
-  },
-  "homepage": "https://github.com/alexandraws29/shop-shop#readme"
+  }
 }
